@@ -12,7 +12,7 @@ please make sure to install the librairy ``psutil`` before running the script
 **by pip :**
 
 
-    .. code-block: bash
+    .. code-block:: bash
 
         ~ pip install psutil-4.3.1
     
@@ -20,6 +20,6 @@ please make sure to install the librairy ``psutil`` before running the script
 
 **or conda :**
 
-    .. code-block: bash
+    .. code-block:: bash
 
         ~ conda install -c conda-forge psutil
